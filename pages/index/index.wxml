@@ -1,0 +1,8 @@
+<view class="content">
+  <view class="title">中国现阶段人均寿命900个月</view>
+  <view class="button">
+    <view class="btn-text">点击设置出生年月，查看人生进度</view>
+  </view>
+  <view class="img"></view>
+  <view class="footer">成功决不喜欢会见懒汉,而是唤醒懒汉。</view>
+</view>
