@@ -10,13 +10,13 @@
   font-size:18px;
   color:#c9c9c9;
 }
-.button{
+.picker{
   display: flex;
   justify-content: center;
   height:40px;
   line-height:40px;
 }
-.button .btn-text{
+.picker .btn-text{
     font-size:15px;
     border:1px solid #ccc;
     padding:0 7px;
@@ -24,7 +24,7 @@
     color:#c9c9c9;
 }
 .img{
-  height:200px;
+  height:300px;
   margin:20px 0  0;
  
 }
