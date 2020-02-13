@@ -1,6 +1,8 @@
 {
   "pages": [
-    "pages/index/index"
+    "pages/index/index",
+    "pages/date/index",
+    "pages/my/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -9,5 +11,24 @@
     "navigationBarTextStyle": "black"
   },
   "style": "v2",
-  "sitemapLocation": "sitemap.json"
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "color": "gray",
+    "selectedColor": "red",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "人生进度"
+      },
+      {
+        "pagePath": "pages/date/index",
+        "text": "日期计算"
+      },
+      {
+        "pagePath": "pages/my/index",
+        "text": "我的"
+      }
+    ]
+  }
 }
